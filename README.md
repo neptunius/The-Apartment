@@ -2,14 +2,15 @@
 
 ## Synopsis
 
-A film about places we live, and the people that live there.
+A film about the places where we live, and the people that live there.
 
 ## Cast
 
-- The Butler: Brad Pitt
-- The Heiress: Lady Gaga
-- The Handyman: Steve Buscemi
-- Col. Mustard: Christopher Guest
-- The Step Daughter: Tina Fey
+- The maintenance: Brad Pitt
+- The landlord: Lady Gaga
+- The neighbor: Steve Buscemi
+- Crusty old man: Christopher Guest
+- Kid down the hall: Tina Fey
+- The cockroach: Linus William Roache
 
 
