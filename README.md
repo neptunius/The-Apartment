@@ -1,6 +1,10 @@
 # The-Apartment
 
-A film about places we live.
+## Synopsis
+
+A film about places we live, and the people that live there.
+
+## Cast
 
 - The Butler: Brad Pitt
 - The Heiress: Lady Gaga
