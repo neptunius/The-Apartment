@@ -6,7 +6,9 @@ This film would be better if it were set in a large stately mansion atop a hill.
 
 ## Synopsis
 
-A film about the problems with being too wealthy and people who take advantage of anyone who has something to lose.
+A rock opera about the amazing places where no one should live, and the people that live there.
+
+Set to a new wave rock sound track by Polysics. 
 
 ## Cast
 
@@ -17,3 +19,5 @@ A film about the problems with being too wealthy and people who take advantage o
 - Snarky Neighbor Kid: Haley Joel Osment
 - Crusty Wise Old Man: Christopher Guest
 - The cockroach: Linus William Roache
+- The potted plant: Kaneko Shingo
+- Spirit in the fireplace: Ishimaru
